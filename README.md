@@ -1,2 +1,2 @@
-# stonesspark
-Human innovation starts from stonesspark. 
+# stonespark
+Human innovation starts from stone spark. 
